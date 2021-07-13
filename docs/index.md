@@ -40,6 +40,7 @@ displayed to better address user pain points
 
 ### [NBA Salary Predictions](https://jacobpad.github.io/2020-03-05-Unit-2-Build-Week-NBA-Salaries/) | Data Scientist - Machine Learning
 `March 2020 (blog)`
+* 
 * Scrapped data and built predictive models with XGBoost, Random Forest & Decision Trees to predict
 salaries of NBA players
 * Presented in blog format to show visualizations - Partial Dependency Plots, Shaps, Plotly, Decision Tree
