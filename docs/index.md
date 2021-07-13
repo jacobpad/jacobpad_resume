@@ -19,6 +19,7 @@ title: Brigham Young's Resume
 * Skills: Python, Natural Language Processing, Exploratory Data Analysis, Data Storytelling, Data Wrangling/Analysis, BeautifulSoup, K-Nearest Neighbors, Data Engineering, Deep Learning, Linear & Multivariate Regression, Machine Learning, Matplotlib, Neural Networks, PostgreSQL, Modeling, Regression & Tree-Based Models, Seaborn, Software Engineering, Statistics, Visualization
 
 ## Projects
+
 `May 2020 - July 2020 (remote)`
 ### [SoMe Social Media Management Platform](https://github.com/Lambda-School-Labs/social-media-strategy-ds) | Data Scientist - NLP
 #### Team: 3 Software Engineers, 3 Data Scientists, 3 Frontend Developers
