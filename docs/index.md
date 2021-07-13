@@ -20,7 +20,7 @@ title: Brigham Young's Resume
 
 ## Projects
 
-### [SoMe](https://github.com/Lambda-School-Labs/social-media-strategy-ds) Social Media Management Platform
+### [SoMe Social Media Management Platform](https://github.com/Lambda-School-Labs/social-media-strategy-ds)
 Data Scientist - NLP
 `May 2020 - July 2020 (remote)`
 * **Team**: 3 Software Engineers, 3 Data Scientists, 3 Frontend Developers
