@@ -20,6 +20,8 @@ title: Brigham Young's Resume
 
 ## Projects
 
+
+`May 2020 - July 2020 (remote)`
 ### [SoMe](https://github.com/Lambda-School-Labs/social-media-strategy-ds) Social Media Management Platform
 Data Scientist - NLP
 `May 2020 - July 2020 (remote)`
@@ -35,7 +37,7 @@ displayed to better address user pain points
 ### [DEEPTUNES! Spotify Song Prediction Web App](https://github.com/Lambda-Spotify-Song-Suggester-3/datascience) | Data Scientist - Machine Learning
 `April 2020 (remote)`
 * Team: 3 Data Scientists, 2 Software Engineers, 2 Frontend Developers
-* App Purpose:​ Recommend songs based on similarity to user input & visualizations using song data
+* App Purpose: Recommend songs based on similarity to user input & visualizations using song data
 * Built KNN (K Nearest Neighbors) architecture & visualizations with Matplotlib
 
 `March 2020 (blog)`
