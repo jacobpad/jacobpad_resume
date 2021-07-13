@@ -47,10 +47,11 @@ salaries of NBA players
 
 ## Education
 
-**__Brigham Young University - Idaho__**, Rexburg, ID
+**Brigham Young University - Idaho**, Rexburg, ID
 `Expected 2021 (remote)`
+* Bachelor of Science in University Studies
 
-**__Lambda School__**, San Francisco, CA
+**Lambda School**, San Francisco, CA
 `January 2020 – January 2021 (remote)`
 _Data Science_
 * Nine-month (full-time, M-F) intensive data science program
