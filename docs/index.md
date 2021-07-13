@@ -2,83 +2,73 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jacob Padgett
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="jacobpad@gmail.com">jacobpad@gmail.com</a>
+| <a href="https://jacobpad.github.io/">Portfolio</a>
+| <a href="https://www.linkedin.com/jacobpad">LinkedIn</a>
+| <a href="https://github.com/jacobpad">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+## Skills
+* Expertise: Python (NumPy, Pandas, Scikit-learn), SQL, GitHub, Slack, Zoom
+* Frameworks: Keras, Tensorflow, Gensim, NLTK, Plotly Dash, Elastic Beanstalk, Flask, Docker
+* Skills: Python, Natural Language Processing, Exploratory Data Analysis, Data Storytelling, Data Wrangling/Analysis, BeautifulSoup, K-Nearest Neighbors, Data Engineering, Deep Learning, Linear & Multivariate Regression, Machine Learning, Matplotlib, Neural Networks, PostgreSQL, Modeling, Regression & Tree-Based Models, Seaborn, Software Engineering, Statistics, Visualization
+
+## Projects
+`May 2020 - July 2020 (remote)`
+### [SoMe Social Media Management Platform](https://github.com/Lambda-School-Labs/social-media-strategy-ds) | Data Scientist - NLP
+#### Team: 3 Software Engineers, 3 Data Scientists, 3 Frontend Developers
+* Purpose: Web app to help draft and schedule tweets, track growth, gain analytical insight of followers
+* Designed, optimized, and launched a Natural Language Processing​ model (LDA) to provide users with topics
+their followers engage with the most
+* Collaborated with data engineering team to build the back-end data science API running on AWS Elastic
+Beanstalk with FastAPI, optimize posting time recommendation & engagement data
+* Collaborated with front end and web design teams to optimize the way data science outcomes are
+displayed to better address user pain points
+
+`April 2020 (remote)`
+### [DEEPTUNES! Spotify Song Prediction Web App](https://github.com/Lambda-Spotify-Song-Suggester-3/datascience) | Data Scientist - Machine Learning
+#### Team: 3 Data Scientists, 2 Software Engineers, 2 Frontend Developers
+* App Purpose:​ Recommend songs based on similarity to user input & visualizations using song data
+* Built KNN (K Nearest Neighbors) architecture & visualizations with Matplotlib
+
+`March 2020 (blog)`
+### [NBA Salary Predictions](https://jacobpad.github.io/2020-03-05-Unit-2-Build-Week-NBA-Salaries/) | Data Scientist - Machine Learning
+* Scrapped data and built predictive models with XGBoost, Random Forest & Decision Trees to predict
+salaries of NBA players
+* Presented in blog format to show visualizations - Partial Dependency Plots, Shaps, Plotly, Decision Tree
+
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2021 (remote)`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+`January 2020 – January 2021 (remote)`
+__Lambda School__, San Francisco, CA
+_Data Science_
+* Nine-month (full-time, M-F) intensive data science program
+* 2,000+ hours spent programming in Python
 
 
 ## Related Experience
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+`May 2020 – January 2021`
+### Lambda School
+#### Data Science Team Lead, San Francisco, CA (remote)
+* Serve a team of 7+ students, leading daily code challenges, live code review, 1:1’s & provided feedback
+* Lead team of 8-10 students to complete two-week-long cross-functional build project
+* Lead daily standup meetings to build collaborative teams, facilitate sharing of ideas & work progress
+* Deliver supplemental resources on various Data Science topics, including Deep Learning & NLP
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2002-2004`
+__Service Missionary__, Guatemala
 
 
 
