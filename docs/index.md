@@ -32,9 +32,9 @@ Beanstalk with FastAPI, optimize posting time recommendation & engagement data
 * Collaborated with front end and web design teams to optimize the way data science outcomes are
 displayed to better address user pain points
 
-`April 2020 (remote)`
 ### [DEEPTUNES! Spotify Song Prediction Web App](https://github.com/Lambda-Spotify-Song-Suggester-3/datascience) | Data Scientist - Machine Learning
-#### Team: 3 Data Scientists, 2 Software Engineers, 2 Frontend Developers
+`April 2020 (remote)`
+* Team: 3 Data Scientists, 2 Software Engineers, 2 Frontend Developers
 * App Purpose:​ Recommend songs based on similarity to user input & visualizations using song data
 * Built KNN (K Nearest Neighbors) architecture & visualizations with Matplotlib
 
