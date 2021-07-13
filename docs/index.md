@@ -5,7 +5,7 @@ title: Brigham Young's Resume
 # Jacob Padgett
 
 <div id="webaddress">
-<a href="jacobpad@gmail.com">jacobpad@gmail.com</a>
+<!-- <a href="jacobpad@gmail.com">jacobpad@gmail.com</a> -->
 | <a href="https://jacobpad.github.io/">Portfolio</a>
 | <a href="https://www.linkedin.com/jacobpad">LinkedIn</a>
 | <a href="https://github.com/jacobpad">GitHub</a>
