@@ -47,10 +47,10 @@ salaries of NBA players
 
 ## Education
 
-### __Brigham Young University - Idaho__, Rexburg, ID
+**__Brigham Young University - Idaho__**, Rexburg, ID
 `Expected 2021 (remote)`
 
-### __Lambda School__, San Francisco, CA
+**__Lambda School__**, San Francisco, CA
 `January 2020 – January 2021 (remote)`
 _Data Science_
 * Nine-month (full-time, M-F) intensive data science program
@@ -59,8 +59,8 @@ _Data Science_
 
 ## Related Experience
 
-`May 2020 – January 2021`
 ### Lambda School
+`May 2020 – January 2021`
 * **Data Science Team Lead**, San Francisco, CA (remote)
 * Serve a team of 7+ students, leading daily code challenges, live code review, 1:1’s & provided feedback
 * Lead team of 8-10 students to complete two-week-long cross-functional build project
