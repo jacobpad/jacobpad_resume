@@ -22,8 +22,7 @@ title: Brigham Young's Resume
 
 ### [SoMe Social Media Management Platform](https://github.com/Lambda-School-Labs/social-media-strategy-ds) | Data Scientist - NLP
 `May 2020 - July 2020 (remote)`
-
-#### Team: 3 Software Engineers, 3 Data Scientists, 3 Frontend Developers
+* Team: 3 Software Engineers, 3 Data Scientists, 3 Frontend Developers
 * Purpose: Web app to help draft and schedule tweets, track growth, gain analytical insight of followers
 * Designed, optimized, and launched a Natural Language Processing​ model (LDA) to provide users with topics
 their followers engage with the most
