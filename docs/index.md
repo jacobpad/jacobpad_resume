@@ -7,7 +7,7 @@ title: Brigham Young's Resume
 <div id="webaddress">
 <a href="#">jacobpad@gmail.com</a>
 | <a href="https://jacobpad.github.io/">Portfolio</a>
-| <a href="https://www.linkedin.com/jacobpad">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/jacobpad">LinkedIn</a>
 | <a href="https://github.com/jacobpad">GitHub</a>
 </div>
 
